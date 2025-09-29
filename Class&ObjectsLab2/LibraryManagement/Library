@@ -1,0 +1,56 @@
+#include <iostream>
+
+using namespace std;
+
+class Book
+{
+private:
+    String title;
+    String author;
+    String isbn;
+
+public:
+
+    Book(String title,String Author,String isbn)
+    {
+        this->title = title;
+        this->author = author;
+        this->isbn = isbn;
+    }
+
+
+    String setTitle(String title)
+    {
+        this->title = title;
+    }
+    String setAuthor(String author)
+    {
+        this->author = author;
+    }
+    String setISBN(String isbn)
+    {
+        this->isbn = isbn;
+    }
+    void getTitle()
+    {
+
+        return title;
+    }
+    void getAuthor()
+    {
+
+        return author;
+    }
+    void getISBN()
+    {
+
+        return isbn;
+    }
+
+    void getDetails()
+    {
+        cout<<"Book title: "<<getTitle()<<endl;
+        cout<<"Book author: "<<getAuthor()<<endl;
+        cout<<"Book isbn: "<<getISBN()<<endl;
+    }
+}
