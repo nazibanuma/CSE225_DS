@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1759235375 source:f:\github\cse225_ds\templateclass&operatoroverloading\multiplicationoverload\main.cpp
+	<iostream>
+	"dynarr.h"
+
+1759235417 f:\github\cse225_ds\templateclass&operatoroverloading\multiplicationoverload\dynarr.h
+	<iostream>
+

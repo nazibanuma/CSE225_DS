@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1760699830 source:f:\github\cse225_ds\dynamicma\unsortedtype\unsortedarray\main.cpp
+	<iostream>
+	"UnsortedArr.h"
+	"UnsortedArr.cpp"
+
+1760700037 source:f:\github\cse225_ds\dynamicma\unsortedtype\unsortedarray\unsortedarr.cpp
+	"UnsortedArr.h"
+	<iostream>
+
+1760698321 f:\github\cse225_ds\dynamicma\unsortedtype\unsortedarray\unsortedarr.h
+
+1760700005 f:\github\cse225_ds\dynamicma\unsortedtype\unsortedarray\unsortedarr.cpp
+	"UnsortedArr.h"
+	<iostream>
+
+1760700387 source:f:\github\cse225_ds\dynamicma\unsortedtype\unsortedarray\studentinfo.cpp
+	"studentInfo.h"
+	<iostream>
+
+1760700387 f:\github\cse225_ds\dynamicma\unsortedtype\unsortedarray\studentinfo.h
+	<iostream>
+	<string>
+

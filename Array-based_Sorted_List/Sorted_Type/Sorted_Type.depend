@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1761307179 source:f:\github\cse225_ds\array-based_sorted_list\sorted_type\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+
+1761143708 f:\github\cse225_ds\array-based_sorted_list\sorted_type\sortedtype.h
+
+1761308372 source:f:\github\cse225_ds\array-based_sorted_list\sorted_type\main.cpp
+	<iostream>
+	"sortedtype.h"
+	"sortedtype.cpp"
+	"timeStamp.h"
+
+1761307179 f:\github\cse225_ds\array-based_sorted_list\sorted_type\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+
+1761302894 f:\github\cse225_ds\array-based_sorted_list\sorted_type\timestamp.h
+
+1761308471 source:f:\github\cse225_ds\array-based_sorted_list\sorted_type\timestamp.cpp
+	"timeStamp.h"
+	<iostream>
+

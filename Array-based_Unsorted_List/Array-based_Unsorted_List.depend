@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1760704881 source:d:\study material\pupil\numa\cse225\lab\array-based_unsorted_list\unsortedtype.cpp
+	"UnsortedType.h"
+	<iostream>
+
+1760541379 d:\study material\pupil\numa\cse225\lab\array-based_unsorted_list\unsortedtype.h
+
+1760541734 source:d:\study material\pupil\numa\cse225\lab\array-based_unsorted_list\main.cpp
+	<iostream>
+	"UnsortedType.h"
+	"UnsortedType.cpp"
+	"StudentInfo.h"
+
+1760541507 d:\study material\pupil\numa\cse225\lab\array-based_unsorted_list\unsortedtype.cpp
+	"UnsortedType.h"
+	<iostream>
+
+1760704018 d:\study material\pupil\numa\cse225\lab\array-based_unsorted_list\studentinfo.h
+	<iostream>
+
+1760704018 source:d:\study material\pupil\numa\cse225\lab\array-based_unsorted_list\studentinfo.cpp
+	"StudentInfo.h"
+	<iostream>
+
+1760707238 source:f:\github\cse225_ds\array-based_unsorted_list\studentinfo.cpp
+	"StudentInfo.h"
+	<iostream>
+
+1760707238 f:\github\cse225_ds\array-based_unsorted_list\studentinfo.h
+	<iostream>
+
+1760707238 source:f:\github\cse225_ds\array-based_unsorted_list\unsortedtype.cpp
+	"UnsortedType.h"
+	<iostream>
+
+1760707238 f:\github\cse225_ds\array-based_unsorted_list\unsortedtype.h
+
+1760707375 source:f:\github\cse225_ds\array-based_unsorted_list\main.cpp
+	<iostream>
+	"UnsortedType.h"
+	"UnsortedType.cpp"
+	"StudentInfo.h"
+
+1760707238 f:\github\cse225_ds\array-based_unsorted_list\unsortedtype.cpp
+	"UnsortedType.h"
+	<iostream>
+
