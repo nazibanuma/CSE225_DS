@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1762269723 source:f:\github\cse225_ds\unsortedtype_linkedlist\unsortedtype.cpp
+	<iostream>
+	"UnsortedType.h"
+
+1762269725 f:\github\cse225_ds\unsortedtype_linkedlist\unsortedtype.h
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1768221551 source:f:\github\cse225_ds\stackarray\stackprob.cpp
+	"StackProb.h"
+
+1768216159 f:\github\cse225_ds\stackarray\stackprob.h
+
+1768223454 source:f:\github\cse225_ds\stackarray\main.cpp
+	<iostream>
+	"StackProb.h"
+	"StackProb.cpp"
+	<string>
+
+1768221551 f:\github\cse225_ds\stackarray\stackprob.cpp
+	"StackProb.h"
+

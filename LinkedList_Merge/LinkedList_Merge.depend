@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1762022186 source:f:\github\cse225_ds\linkedlist_merge\merge.cpp
+	<iostream>
+	"merge.h"
+
+1762018788 f:\github\cse225_ds\linkedlist_merge\merge.h
+
+1762023005 source:f:\github\cse225_ds\linkedlist_merge\main.cpp
+	<iostream>
+	"UnsortedType.h"
+	"UnsortedType.cpp"
+
+1762018693 f:\github\cse225_ds\linkedlist_merge\unsortedtype.h
+
+1762018693 f:\github\cse225_ds\linkedlist_merge\unsortedtype.cpp
+	<iostream>
+	"merge.h"
+
