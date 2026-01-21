@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1768829564 source:f:\github\cse225_ds\stack_inflix\main.cpp
+	<iostream>
+	<stack>
+	<string>
+
+1768676154 source:f:\github\cse225_ds\stack_inflix\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1768676164 f:\github\cse225_ds\stack_inflix\stacktype.h
+

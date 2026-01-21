@@ -21,6 +21,8 @@ public:
     ItemType Top();
     bool IsEmpty();
     bool IsFull();
+    void InfixToPost(ItemType);
+    void Evaluate();
 private:
     NodeType* topPtr;
 };

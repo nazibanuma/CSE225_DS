@@ -76,3 +76,29 @@ StackType<ItemType>::~StackType()
         delete tempPtr;
     }
 }
+/*
+Read the expression from left to right.
+1. If an operand (A-Z, 0-9) is encountered, add it directly to the output.
+2. If an operator is encountered:
+   1. Pop operators from the stack to the output if they have higher or equal precedence.
+   2. Push the current operator onto the stack.
+3. If an opening parenthesis ( is found, push it onto the stack.
+4. If a closing parenthesis ) is found, pop operators from the stack to the output until an opening parenthesis is encountered.
+5. After scanning the entire expression, pop any remaining operators from the stack
+ to the output.
+
+ */
+
+
+ template <class ItemType>
+void StackType<ItemType>::InfixToPost(ItemType newItem)
+{
+
+}
+
+
+template <class ItemType>
+void StackType<ItemType>::Evaluate()
+{
+
+}
